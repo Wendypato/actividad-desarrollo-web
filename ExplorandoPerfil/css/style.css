@@ -1,0 +1,75 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*tipografia*/
+    margin: 0;
+    padding: 0 20px; /*espacio horizaontal a los lados*/
+    background-color: #ffffff;
+    color: #333333;
+    line-height: 1.6; /*separa las lineas para que no se vea tan amontonado*/
+}
+
+
+header {
+    padding: 40px 0 10px; /*espacion arriba, nada en los lados, y poquito abajo*/
+    border-bottom: 1px solid #e0e0e0; /*liena gris debajo del encabezado*/
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px; /*separa del resto del contenid*/
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+
+main {
+    max-width: 800px; /* para uqe no se expanda mas de 800px y sea comodo de leer*/
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+section {
+    margin-bottom: 50px; /*espacio entre cada seccion*/
+}
+
+/*titulos de cada seccion*/
+h2 {
+    font-size: 1.8rem;
+    color: #1a1a1a;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+/* sangria a la izquierda*/
+ul {
+    padding-left: 20px;
+}
+
+
+/*espacio entre cada item de la lista*/
+li {
+    margin-bottom: 10px;
+}
+
+/*texto en negritas*/
+strong {
+    color: #2c3e50;
+}
+
+
+
+.main-image {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
