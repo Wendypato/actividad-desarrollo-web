@@ -1,4 +1,4 @@
-# actividad-desarrollo-web
+# Actividad-desarrollo-web
 
 Este es un proyecto hecho con HTML y CSS donde reflexiono sobre mi formación y perfil como futuro desarrolladora de software.
 
