@@ -4,7 +4,7 @@ Este es un proyecto hecho con HTML y CSS donde reflexiono sobre mi formación y 
 
 ## Vista previa
 
-![captura del proyecto](./img/preview.png)
+![captura del proyecto](ExplorandoPerfil/img/preview.png)
 
 ## Estructura
 
